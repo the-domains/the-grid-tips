@@ -1,0 +1,28 @@
+name: The Grid Tips
+favicon: null
+layout_spectrum: 0.9393230781424791
+typography_spectrum: 0.1369871541392058
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.26364014809951186
+  lightness: 0.2778989593498409
+  saturation: 0.013518453808501363
+  rhythmicContrast: 0.8365981471724808
+purpose: []
