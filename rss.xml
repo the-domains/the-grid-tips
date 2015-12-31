@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Grid Tips]]></title>
         <description><![CDATA[The Grid Tips]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-grid-tips/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 20:09:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Dec 2015 20:13:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-grid-tips/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started - The Grid Knowledge Base]]></title>
+            <description><![CDATA[<article><h1>Getting Started - The Grid Knowledge Base</h1><p>We're here to help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f27e25132876c2b70abf7cff327e798bcb0a200f.png"></article>]]></description>
+            <link>http://help.thegrid.io/category/66-getting-started</link>
+            <guid isPermaLink="false">916ef17a-ca17-4a8d-ac61-c485ab08d7ef</guid>
+            <pubDate>Thu, 31 Dec 2015 20:13:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Share Web Content]]></title>
             <description><![CDATA[<article><h1>Share Web Content</h1><p>Uploaded by Jordy Webb on 2015-11-30.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acdb865c7748b3343096f520b529697756556378.jpg"></article>]]></description>
