@@ -4,11 +4,18 @@
         <description><![CDATA[The Grid Tips]]></description>
         <link>https://thegrid.ai/the-grid-tips/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Dec 2015 20:13:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jan 2016 00:00:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-grid-tips/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Some Grid Tips I've Learned]]></title>
+            <description><![CDATA[<article><h1>Some Grid Tips I've Learned</h1><p>Here are some Grid tips (or maybe just general stuff) I've learned since I've started playing with my Beta site.   I'll keep updating this post as I learn anything else new!   Hope this helps anyone out there trying to get their Beta sites up and running!</p></article>]]></description>
+            <link>https://thegrid.ai/the-grid-tips/some-grid-tips-ive-learned/index.html</link>
+            <guid isPermaLink="false">c306c13c-ecb0-4778-915d-62fee61af245</guid>
+            <pubDate>Thu, 07 Jan 2016 00:00:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Getting Started - The Grid Knowledge Base]]></title>
-            <description><![CDATA[<article><h1>Getting Started - The Grid Knowledge Base</h1><p>We're here to help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f27e25132876c2b70abf7cff327e798bcb0a200f.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Getting Started - The Grid Knowledge Base</h1><p>We're here to help.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df991d1830363d51fecb01cf66b876f2ddce2ac9.png"></article>]]></description>
             <link>http://help.thegrid.io/category/66-getting-started</link>
             <guid isPermaLink="false">916ef17a-ca17-4a8d-ac61-c485ab08d7ef</guid>
             <pubDate>Thu, 31 Dec 2015 20:13:09 GMT</pubDate>
